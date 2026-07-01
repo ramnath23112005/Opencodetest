@@ -1,0 +1,9 @@
+{
+  "Total Customers": 7043,
+  "Churn Rate (%)": 26.54,
+  "Retention Rate (%)": 73.46,
+  "Monthly Revenue Loss ($)": 139130.85,
+  "Average CLV ($)": 2283.3,
+  "Avg CLV - Churned ($)": 1531.8,
+  "Avg CLV - Retained ($)": 2555.34
+}

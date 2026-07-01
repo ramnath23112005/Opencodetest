@@ -1,0 +1,79 @@
+{
+  "contract_churn": {
+    "Month-to-month": 42.71,
+    "One year": 11.27,
+    "Two year": 2.83
+  },
+  "payment_churn": {
+    "Bank transfer (automatic)": 16.71,
+    "Credit card (automatic)": 15.24,
+    "Electronic check": 45.29,
+    "Mailed check": 19.11
+  },
+  "tenure_churn": {
+    "0-6": 53.33,
+    "6-12": 35.89,
+    "12-24": 28.71,
+    "24-48": 20.39,
+    "48-72": 9.51
+  },
+  "internet_churn": {
+    "DSL": 18.96,
+    "Fiber optic": 41.89,
+    "No": 7.4
+  },
+  "senior_churn": {
+    "0": 23.61,
+    "1": 41.68
+  },
+  "partner_dep_churn": {
+    "('No', 'No')": 34.24,
+    "('No', 'Yes')": 21.33,
+    "('Yes', 'No')": 25.41,
+    "('Yes', 'Yes')": 14.24
+  },
+  "charge_bucket_churn": {
+    "Low": 11.24,
+    "Mid-Low": 24.58,
+    "Mid-High": 37.51,
+    "High": 32.88
+  },
+  "avg_tenure_churned": 18.0,
+  "avg_tenure_retained": 37.6,
+  "avg_mc_churned": 74.4,
+  "avg_mc_retained": 61.3,
+  "high_risk_count": 876,
+  "high_risk_churn_rate": 70.5,
+  "high_risk_rev_loss": 50899.5,
+  "paperless_churn": {
+    "No": 16.33,
+    "Yes": 33.57
+  },
+  "gender_churn": {
+    "Female": 26.92,
+    "Male": 26.16
+  },
+  "multiple_lines_churn": {
+    "No": 25.04,
+    "No phone service": 24.93,
+    "Yes": 28.61
+  },
+  "contract_counts": {
+    "Month-to-month": 3875,
+    "One year": 1473,
+    "Two year": 1695
+  },
+  "tenure_counts": {
+    "0-6": 1470,
+    "6-12": 705,
+    "12-24": 1024,
+    "24-48": 1594,
+    "48-72": 2239
+  },
+  "churned_monthly_rev": 139130.85,
+  "retained_monthly_rev": 316985.75,
+  "total_monthly_rev": 456116.6,
+  "pct_rev_at_risk": 30.5,
+  "churned_count": 1869,
+  "retained_count": 5174
+}
